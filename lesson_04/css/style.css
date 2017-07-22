@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+	
+}
+boby {
+	background-color: white;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+.wrap {
+	width: 500px;
+	background-color: #f8f8f8;
+	padding: 20px;
+	border-right: 50px solid #252525;
+	margin: 30px auto;
+}
+header:after {
+	content: '';
+	clear: both;
+	display: table;
+}
+header {
+	background-color: #484848;
+}
+header h2 {
+	text-transform: uppercase;
+	font-size: 24px;
+	color: white;
+	padding: 13px 20px;
+	float: left;	
+}
+.icon1 {
+	float: left;	
+}
+.icon2 {
+	float: right;
+}

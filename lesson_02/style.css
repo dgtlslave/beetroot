@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Table</title>
+</head>
+<body>
+	<header>
+		
+	</header>
+	<main>
+		<table border="1" cellpadding="10px">
+			<caption>Table name</caption>
+			<tr>
+				<th rowspan="2">#</th>
+				<th rowspan="2">Name</th>
+				<th rowspan="2">Units</th>
+				<th colspan="2">Price</th>
+				<th rowspan="2">Discription</th>	
+			</tr>
+			<tr>
+				<th>wholesale</th>
+				<th>retail</th>
+				
+			</tr>
+			
+		</table>
+	</main>
+	<footer>
+		
+	</footer>
+</body>
+</html>
